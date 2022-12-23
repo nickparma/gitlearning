@@ -1,0 +1,1 @@
+print("Welcome to GitLab with Nickakis! Today we are gonna cook some meht ;)")
